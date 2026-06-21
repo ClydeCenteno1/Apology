@@ -14,4 +14,5 @@ bearGif.addEventListener("mouseenter", () => {
 
 bearGif.addEventListener("mouseleave", () => {
     bearGif.src="kiss.jpg"
+    // Music continues playing
 })
